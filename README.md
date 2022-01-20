@@ -1,19 +1,22 @@
 # Happines_Index_Report_2018
 
-![Screenshot 2022-01-18 155643](https://user-images.githubusercontent.com/97668311/150140756-82204fe5-46b1-4666-a7a1-3c20bdacade9.png)width=50% height=50%>
-            1.Using maps with countries
-            2.Using color pallete from red to green to define score.
-            
+![Screenshot 2022-01-18 155643](https://user-images.githubusercontent.com/97668311/150140756-82204fe5-46b1-4666-a7a1-3c20bdacade9.png)
+                                    1.Using maps with countries
+                                    2.Using color pallete from red to green to define score.
+
 ![image](https://user-images.githubusercontent.com/97668311/150296977-55fc521a-2b0a-4c21-b210-f3eff1ab0fba.png)
             Happiness and GDP graph:
-             1. Use maps with countries
+             1. Use maps with countries.
              2. Use color pallete from red to green to define score.
              3. Use circle size to define GDP per capita score.
              
 ![image](https://user-images.githubusercontent.com/97668311/150302433-07fe8e8a-6afa-4715-a4e6-83fb375bc16f.png)
-             
-             
-             
+             1. Make parameter with all happiness scores criterias.
+             2. Make bar graph.
+             3. Make new colums with cases, where use parameter values and colums names.
+             4. Use label, wich show marks i label.
+             5. With this parameter always can see every happinies scores criteria in bar graph.
+
 ![image](https://user-images.githubusercontent.com/97668311/150298094-71c02c07-a21b-49a5-8ef6-329c22979d18.png)
              Top 10  the Happiest Countries:
              1. Make text label graph
